@@ -1,0 +1,20 @@
+{
+  "name": "bfhl-api",
+  "version": "1.0.0",
+  "description": "BFHL API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "node": "^22.9.0"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
